@@ -4,7 +4,7 @@
 
 ###Portfolio Website 
 - [View website here](https://amygrahamie.github.io/Portfolio/index.html)
-- [Supporting Sketches]()
+- [Supporting Sketches](https://amygrahamie.github.io/Portfolio/Portfoliosketches.html)
 - [Moodboard 1](https://uk.pinterest.com/grahamie/web-design/)
 - [Moodboard 2](https://uk.pinterest.com/grahamie/design/)
 
