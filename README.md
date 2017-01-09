@@ -10,11 +10,11 @@
 
 ###Elements Project
 - [View website here](https://amygrahamie.github.io/Elements-Project/index.html)
-- [Supporting Sketches](https://amygrahamie.github.io/Elements-Project/supporting-sketches.html)
+- [Supporting Sketches](https://amygrahamie.github.io/Elements-Project/supportingsketches.html)
 
 ###Masterclass One
 - [Education Micropublications](https://amygrahamie.github.io/Portfolio/thirst.html)
-- [Supporting Sketches]()
+
 
 ###Masterclass Two
 - [IxD Awards Video](https://amygrahamie.github.io/Portfolio/ishared.html)
